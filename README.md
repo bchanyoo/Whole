@@ -1,2 +1,0 @@
-# dakum
-beginner
